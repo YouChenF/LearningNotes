@@ -32,6 +32,7 @@ Github主页：左侧显示用户动态，右侧显示该用户的仓库
 关联远程仓库：git remote add origin git@github.com:lenve/test.git  （git remote add {shortname} {url}，指定一个简单的名字，以便将来引用。)
 合并本地仓库和远程仓库：git pull --rebase origin main （本地和远程仓库两者代码文件不同步）
 推送本地仓库到远程仓库：git push -u origin main
+版本切换：git reset --hard {版本号}
 
 ### 3. git常用命令解析
 
