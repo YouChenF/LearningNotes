@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "4fc7b7c7bbbf3df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf80c6fe365d6fbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "crafting-compiler/表示代码 Representing code.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0105e87abed9eb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c575356c49c6dfe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dce8b52d6ca0a89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae5c0a4679312b0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a05dae560f2bc99d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e4b66575a2d9521",
+    "type": "split",
+    "children": [
+      {
+        "id": "1958254ba0786b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80baa7cb90892fa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "crafting-compiler/表示代码 Representing code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e72fcb603caace",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "crafting-compiler/表示代码 Representing code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a32a678d8d7ac68b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18cedfdee151b137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "crafting-compiler/表示代码 Representing code.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cf80c6fe365d6fbc",
+  "lastOpenFiles": [
+    "未命名.md",
+    "imgs/Pasted image 20221013162743.png",
+    "crafting-compiler/解析表达式.md",
+    "crafting-compiler/表示代码 Representing code.md",
+    "Git-Learning/Git基本使用.md",
+    "crafting-compiler/扫描 Scanning.md",
+    "README.md",
+    "git learning/Git基本使用.md"
+  ]
+}
